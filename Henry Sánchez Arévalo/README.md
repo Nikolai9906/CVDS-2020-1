@@ -9,7 +9,11 @@
  1. La programación.
  2. Los profesores.
  3. El campus.
- 4. el aroma a conocimiento que hay dentro de la u.
+ 4. El aroma a conocimiento que hay dentro de la u.
  
 ## Mi parte favorita de la u
-![La entrada linda](http://makex.tdrobotica.co/img/img-escuela.jpg)
+!["La entrada linda"](http://makex.tdrobotica.co/img/img-escuela.jpg)
+
+## Redes
+[Facebook]: www.facebook.com/Henrysantafesito
+[Instagram]: www.instagram.com/1948hen
