@@ -39,5 +39,4 @@ public Matriz multiplicacion(Matriz B) throws Exception {
 	}
 ```
 ## Avance de lab
-![Avance](https://i.ibb.co/y0CR2yM/dddd.jpg)
-- avance hecho hasta las 9:54 por henry sanchez arevalo codigo: **2145224**
+![Avance](https://i.ibb.co/0sSfsL3/rrr.jpg)
