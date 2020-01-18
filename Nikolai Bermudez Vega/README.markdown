@@ -1,7 +1,11 @@
 # Nikolai Bermudez Vega
+
 ---
 ## Capturas GIT Branching
-1. ![picture](Users/steven.bermudez/Documents/Capture.PNG)
+1. ![Image](https://ibb.co/tX54hgN)
+* Nikolai Bermudez vega
+* 2127651
+* 9:57 am - 01/18/2020
 ---
 ## Datos basicos
 
