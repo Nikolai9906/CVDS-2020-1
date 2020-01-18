@@ -1,7 +1,7 @@
 # Nikolai Bermudez Vega
 ---
 ## Capturas GIT Branching
-1. ![Image](file:///C:/Users/steven.bermudez/Documents/Capture.PNG)
+1. ![picture](/Users/steven.bermudez/Documents/Capture.PNG)
 ---
 ## Datos basicos
 
