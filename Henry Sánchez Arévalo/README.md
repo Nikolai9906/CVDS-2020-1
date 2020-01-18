@@ -4,3 +4,5 @@
  - Septimo Semestre.
  - Hincha de Santafe.
 ## Acerca de mi 
+ Soy una persona divertida, me gusta jugar futbol, programar, _leer_ , estoy en 7 semestre, me gusta la universidad. 
+  
