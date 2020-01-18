@@ -13,6 +13,7 @@
 
 > Comida Favorita *De mas a menos*
 * Pizza [Link](https://www.tripadvisor.com/Restaurants-g294074-c31-Bogota.html)
+
 ![Image](https://placeralplato.com/files/2016/01/Pizza-con-pepperoni.jpg)
 * Hamburguesa
 * Pasta
