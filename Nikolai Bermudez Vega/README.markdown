@@ -1,5 +1,8 @@
 # Nikolai Bermudez Vega
 ---
+## Capturas GIT Branching
+1. ![GitHub Logo](/Users/steven.bermudez/Documents/Capture.PNG)
+---
 ## Datos basicos
 
 *Soy estudiante de la Escuela Colombiana de Ingenieria Julio Garavito* \
