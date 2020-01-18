@@ -1,5 +1,6 @@
 # Henry Sánchez Arévalo
 ## Información personal
- - Estudiante de la **Escuela Colombiana de ingenieria Julio Garavito**.
+ - Estudiante de ingeniaria de sistemas en la **Escuela Colombiana de ingenieria Julio Garavito**.
  - Septimo Semestre.
  - Hincha de Santafe.
+## Acerca de mi 
