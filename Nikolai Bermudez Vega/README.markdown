@@ -2,7 +2,12 @@
 
 ---
 ## Capturas GIT Branching
-1. ![Image](https://ibb.co/tX54hgN)
+> Main
+1. ![Image](https://raw.githubusercontent.com/Nikolai9906/Laboratorio1-CVDS/master/Nikolai%20Bermudez%20Vega/Main.PNG)
+
+> Remote
+2. ![Image](https://raw.githubusercontent.com/Nikolai9906/Laboratorio1-CVDS/master/Nikolai%20Bermudez%20Vega/Remote.PNG)
+
 * Nikolai Bermudez vega
 * 2127651
 * 9:57 am - 01/18/2020
