@@ -40,3 +40,9 @@ public Matriz multiplicacion(Matriz B) throws Exception {
 ```
 ## Avance de lab
 ![Avance](https://i.ibb.co/0sSfsL3/rrr.jpg)
+
+## **Complemento laboratorio**
+
+![Avance](https://i.ibb.co/6b2ywKy/segundo.jpg)
+![Avance](https://i.ibb.co/vxrpVkP/seg.jpg)
+
