@@ -34,6 +34,37 @@ mis hobbies son:
 ---
 ![image](http://static.t13.cl/images/sizes/1200x675/1532704976-000v08pe.jpg)
 
+---
+
+- este es un codigo en python de una busqueda en profundidad encontrado en internet
+```
+def busqueda_profundidad(self, origen, fin):
+    cp = [[origen]] # camino pendiente
+    while cp:
+        print(cp)
+        if not cp: 
+            return False
+        if cp[0][0] == fin:
+            return list(reversed(cp[0][0]))
+        expansion = self.expandir(cp[0][0])
+        cp = expansion + cp[1:]
+
+def expandir(self, camino):
+    expansion = self.sucesores(camino[0])
+    nuevos = []
+    for n in expansion:
+        if not n in camino:
+            nuevos.append([n] + camino)
+    return nuevos
+
+def sucesores(self, station):
+    """Devuelve la lista de posibles sucesores"""
+    return sorted(list(set(self.model[nodo])))
+
+```
+
 
 ---
 ![image](https://github.com/Nikolai9906/Laboratorio1-CVDS/blob/master/Verbo%20Camacho%20Villamarin/cvds.PNG?raw=true)
+![image](https://github.com/Nikolai9906/Laboratorio1-CVDS/blob/master/Verbo%20Camacho%20Villamarin/Capture%201.PNG?raw=true)
+![image](https://github.com/Nikolai9906/Laboratorio1-CVDS/blob/master/Verbo%20Camacho%20Villamarin/Capture%202.PNG?raw=true)
