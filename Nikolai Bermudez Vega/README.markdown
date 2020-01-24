@@ -3,10 +3,10 @@
 ---
 ## Capturas GIT Branching
 > Main
-1. ![Image](https://raw.githubusercontent.com/Nikolai9906/Laboratorio1-CVDS/master/Nikolai%20Bermudez%20Vega/Main.PNG)
+1. ![Image](https://github.com/Nikolai9906/Laboratorio1-CVDS/blob/master/Nikolai%20Bermudez%20Vega/Capturas/Main.PNG?raw=true)
 
 > Remote
-2. ![Image](https://raw.githubusercontent.com/Nikolai9906/Laboratorio1-CVDS/master/Nikolai%20Bermudez%20Vega/Remote.PNG)
+2. ![Image](https://github.com/Nikolai9906/Laboratorio1-CVDS/blob/master/Nikolai%20Bermudez%20Vega/Capturas/Remote.PNG?raw=true)
 
 * Nikolai Bermudez vega
 * 2127651
