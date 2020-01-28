@@ -1,0 +1,7 @@
+C:\Users\steven.bermudez\Documents\CVDS-2020-1\Laboratorio 2\Patterns>mvn compile
+
+*Sin argumentos*
+C:\Users\steven.bermudez\Documents\CVDS-2020-1\Laboratorio 2\Patterns>mvn exec:java  -Dexec.mainClass="edu.eci.cvds.patterns.shapes.ShapeMain"
+
+*Con argumentos*
+C:\Users\steven.bermudez\Documents\CVDS-2020-1\Laboratorio 2\Patterns>mvn exec:java  -Dexec.mainClass="edu.eci.cvds.patterns.shapes.ShapeMain" -Dexec.args="'Quadrilateral'"
