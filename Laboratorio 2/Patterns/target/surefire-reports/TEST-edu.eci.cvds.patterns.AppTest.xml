@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="edu.eci.cvds.patterns.AppTest" time="0.021" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="edu.eci.cvds.patterns.AppTest" time="0.006" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,7 +18,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_201\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\STEVEN~1.BER\AppData\Local\Temp\surefire7338901095422680584\surefirebooter7577612980906483403.jar C:\Users\steven.bermudez\AppData\Local\Temp\surefire7338901095422680584 2020-01-25T08-57-44_911-jvmRun1 surefire3867139178042686605tmp surefire_01128812136172093709tmp"/>
+    <property name="sun.java.command" value="C:\Users\STEVEN~1.BER\AppData\Local\Temp\surefire7870569196939651496\surefirebooter1069079483377436889.jar C:\Users\steven.bermudez\AppData\Local\Temp\surefire7870569196939651496 2020-02-04T10-46-23_569-jvmRun1 surefire6263334333046006453tmp surefire_03911646631857908163tmp"/>
     <property name="surefire.test.class.path" value="C:\Users\steven.bermudez\Documents\Laboratorio1-CVDS\Laboratorio 2\Patterns\target\test-classes;C:\Users\steven.bermudez\Documents\Laboratorio1-CVDS\Laboratorio 2\Patterns\target\classes;C:\Users\steven.bermudez\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\steven.bermudez\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\steven.bermudez"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\STEVEN~1.BER\AppData\Local\Temp\surefire7338901095422680584\surefirebooter7577612980906483403.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\STEVEN~1.BER\AppData\Local\Temp\surefire7870569196939651496\surefirebooter1069079483377436889.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_201\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_201\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -52,7 +52,7 @@
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="sun.os.patch.level" value=""/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_201\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Haskell\bin;C:\Program Files\Haskell Platform\8.6.5\lib\extralibs\bin;C:\Program Files\Haskell Platform\8.6.5\bin;C:\Program Files\Python37\Scripts\;C:\Program Files\Python37\;C:\Program Files\Java\jre1.8.0_201\bin;C:\Program Files\Java\jdk1.8.0_201\bin;C:\Program Files (x86)\Python37-32\Scripts\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\PuTTY\;C:\Program Files (x86)\WinSCP\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\swipl\bin;&quot;C:\ProgramData\Oracle\Java\javapath;&quot;;C:\Android;C:\Android\tools;C:\Android\platform_tools;C:\Program Files\apache-maven-3.6.0\bin;C:\Program Files\Apache Software Foundation\Apache Maven 3.6.0\bin;C:\Program Files (x86)\Wolfram Research\WolframScript\;C:\Program Files\heroku\bin;C:\Program Files (x86)\Gradle\gradle-5.6.2\bin;C:\Program Files (x86)\Wing 101 7.1\bin;C:\Program Files\Haskell Platform\8.6.5\mingw\bin;C:\Program Files\java-2019-03\eclipse;C:\Program Files\nodejs\;C:\Users\steven.bermudez\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_201\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Haskell\bin;C:\Program Files\Haskell Platform\8.6.5\lib\extralibs\bin;C:\Program Files\Haskell Platform\8.6.5\bin;C:\Program Files\Python37\Scripts\;C:\Program Files\Python37\;C:\Program Files\Java\jre1.8.0_201\bin;C:\Program Files\Java\jdk1.8.0_201\bin;C:\Program Files (x86)\Python37-32\Scripts\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\PuTTY\;C:\Program Files (x86)\WinSCP\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\swipl\bin;&quot;C:\ProgramData\Oracle\Java\javapath;&quot;;C:\Android;C:\Android\tools;C:\Android\platform_tools;C:\Program Files\apache-maven-3.6.0\bin;C:\Program Files (x86)\Wolfram Research\WolframScript\;C:\Program Files\heroku\bin;C:\Program Files (x86)\Gradle\gradle-5.6.2\bin;C:\Program Files (x86)\Wing 101 7.1\bin;C:\Program Files\Haskell Platform\8.6.5\mingw\bin;C:\Program Files\apache-maven-3.6.2\bin;C:\Program Files\ECLIPSE\eclipse;C:\Program Files\nodejs\;C:\Users\steven.bermudez\AppData\Local\Microsoft\WindowsApps;;."/>
     <property name="java.vm.info" value="mixed mode"/>
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="java.vm.version" value="25.201-b09"/>
