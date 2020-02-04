@@ -87,9 +87,11 @@ $ mvn exec:java  -Dexec.mainClass="edu.eci.cvds.patterns.shapes.ShapeMain" -Dexe
 
 ## Hacer el esqueleton de la aplicacion
 * Ejecute múltiples veces la clase ShapeMain, usando el plugin exec de maven con los siguientes parámetros y verifique la salida en consola para cada una:
+  - ¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
 
 	1. Sin parámetros: Nos dice " Parameter of type RegularShapeType is required." lo cual indica que requiere un parametro de una forma regular.
 	2. Parámetro: qwerty : Nos dice "Parameter 'qwerty' is not a valid RegularShapeType" lo cual indica que el valor ingresado no es un tipo de forma regular.
 	3. Parámetro: pentagon : Nos dice "Parameter 'pentagon' is not a valid RegularShapeType" en este caso nos indica en particular que no es un tipo de forma regular debido a que no esta escrito como deberia ser correctamente "Pentagon". 
 	4. Parámetro Hexagon : Nos dice "Successfully created a Hexagon with 6 sides." Lo cual se refiere a que fue exitosamente creado un Hexagon con 6 lados.
-¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
+
+
