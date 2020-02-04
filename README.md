@@ -4,7 +4,7 @@ Primer laboratorio de Ciclos de Vida del Desarrollo de Software
 
 
 
-# Codigos 
+# Codigos Git
 config git config --global user.name "Nikolai Bermudez Vega" 
 
 config git config --global user.email nicohhhh@gmail.com

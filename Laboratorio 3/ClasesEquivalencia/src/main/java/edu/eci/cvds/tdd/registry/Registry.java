@@ -22,11 +22,12 @@ public class Registry {
             
         } else if (people.contains(p.getId())) {
             resultado = RegisterResult.DUPLICATED;
+            System.out.println("PERRAAAAAAAAAAAAAAAAAAAAAA");
             
         } else if (p.getId() < 0) {
             resultado = RegisterResult.INVALID_ID;
             
-        } else if (!p.getName().equals(null) && !p.getName().equals("") ) {
+        } else if (!p.getName().equals(null) && !p.getName().equals("")) {
             resultado = RegisterResult.VALID;
         }
       
