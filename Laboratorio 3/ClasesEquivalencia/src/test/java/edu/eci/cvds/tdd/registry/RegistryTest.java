@@ -83,10 +83,25 @@ public class RegistryTest {
     	
     	Person person3 = new Person("Edwin",10226969,18,Gender.MALE,true);
     	RegisterResult result3 = registry.registerVoter(person3);
-    	Person person4 = new Person("Edwin",10226969,18,Gender.MALE,true);
+    	Assert.assertEquals(RegisterResult.VALID, result3);
+    	Person person4 = new Person("Michael",10226969,19,Gender.MALE,true);
     	RegisterResult result4 = registry.registerVoter(person4);
+    	Assert.assertEquals(RegisterResult.DUPLICATED, result4);
     
     	
+    }
+    @Test
+    public void validateInvalidIdInferiorCase() {
+    	Person person3 = new Person("Edwin",-1,18,Gender.MALE,true);
+    	RegisterResult result3 = registry.registerVoter(person3);
+    	Assert.assertEquals(RegisterResult.INVALID_ID, result3);
+ 
+    }
+    @Test
+    public void validateValidIdCase() {
+    	Person person3 = new Person("Edwin",0,18,Gender.MALE,true);
+    	RegisterResult result3 = registry.registerVoter(person3);
+    	Assert.assertEquals(RegisterResult.VALID, result3);
     }
     
 
